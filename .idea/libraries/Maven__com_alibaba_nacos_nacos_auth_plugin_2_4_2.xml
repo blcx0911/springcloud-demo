@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.nacos:nacos-auth-plugin:2.4.2" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.alibaba.nacos" artifactId="nacos-auth-plugin" version="2.4.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Tools/maven/maven-repository/com/alibaba/nacos/nacos-auth-plugin/2.4.2/nacos-auth-plugin-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Tools/maven/maven-repository/com/alibaba/nacos/nacos-auth-plugin/2.4.2/nacos-auth-plugin-2.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Tools/maven/maven-repository/com/alibaba/nacos/nacos-auth-plugin/2.4.2/nacos-auth-plugin-2.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
